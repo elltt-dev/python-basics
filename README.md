@@ -10,7 +10,7 @@ My practice code while learning Python.
 - Logic operators (and, or)
 
 ## How to run
-python main.py
+python Command-study.py
 
 ## What I'm learning next
 - Loops
